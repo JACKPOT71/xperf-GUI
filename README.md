@@ -14,4 +14,5 @@ Watch your results and after you made a second test you can compare the results.
 
 I've enhanced the output and added a millisecond display. This allows users to quickly assess the data collected and immediately see whether there has been an improvement or a decline.
 
-<img width="567" height="452" alt="powershell_8yDi4gMkGf" src="https://github.com/user-attachments/assets/312ef64e-46a0-4cdd-912f-8e59aad0ae8a" />
+
+<img width="1031" height="985" alt="XPERF_GUI_FINAL" src="https://github.com/user-attachments/assets/4cedbb32-b7cf-45a9-8385-bf9128f3dc4d" />
